@@ -1,5 +1,7 @@
 # CP1 — Modelo Entidade-Relacionamento e Projeto WebAPI
 
+> 📚 Advanced Business Development with .NET — FIAP
+
 🔗 **Repositório:** [https://github.com/felipeflosii/automoveisVendasApi](https://github.com/felipeflosii/automoveisVendasApi)
 
 ## 👥 Integrantes
