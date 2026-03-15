@@ -78,9 +78,3 @@ Projeto.sln
         └── Properties/
             └── launchSettings.json
 ```
-
----
-
-## 📐 Diagrama MER
-
-O diagrama MER está disponível em [`/docs/mer.png`](./docs/mer.png).
