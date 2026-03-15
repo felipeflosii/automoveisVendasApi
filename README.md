@@ -12,6 +12,12 @@
 
 ---
 
+## 📐 Diagrama MER
+
+![Diagrama MER](./docs/mer.png)
+
+--- 
+
 ## 🏢 Domínio Escolhido
 
 **Concessionária de Veículos**
