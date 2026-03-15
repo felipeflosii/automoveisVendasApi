@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutomoveisVendasApi.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1de113dd6848dd7e8444b3d0656ee735b8c67a07")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutomoveisVendasApi.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutomoveisVendasApi.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
